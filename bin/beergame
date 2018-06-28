@@ -1,0 +1,3 @@
+greeting 
+
+current_beer_bottle = gets.to_i 
